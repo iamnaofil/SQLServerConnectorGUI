@@ -19,3 +19,10 @@ User-Friendly Interface: The interface is designed with clarity and user experie
 
 / **Please Ensure You hjave install mysql-connector in Python** /
  before running this code, and make any necessary adjustments according to your MySQL server configuration and database schema.
+
+ <p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
+ 
